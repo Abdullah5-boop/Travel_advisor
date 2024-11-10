@@ -1,3 +1,6 @@
 [submodule "travelreviewerserver"]
 	path = travelreviewerserver
 	url = https://github.com/Abdullah5-boop/travelreviewerserver.git
+[submodule "travelreviewerclient"]
+	path = travelreviewerclient
+	url = https://github.com/Abdullah5-boop/travelreviewerclient.git
